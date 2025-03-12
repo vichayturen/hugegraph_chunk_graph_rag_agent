@@ -1,0 +1,5 @@
+gradio
+lancedb==0.20.0
+hugegraph-python
+python-docx
+litellm
